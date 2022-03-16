@@ -1,23 +1,23 @@
 {
   "development": {
-    "username": "root",
-    "password": "jjhh1517",
-    "database": "benefit1",
-    "host": "127.0.0.1",
+    "username": "admin",
+    "password": "ybrn2030",
+    "database": "ybrn_db",
+    "host": "ybrn-db.c6fmzsxgcag6.ap-northeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
-    "username": "root",
+    "username": "admin",
     "password": null,
     "database": "database_test",
-    "host": "127.0.0.1",
+    "host": "ybrn-db.c6fmzsxgcag6.ap-northeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "production": {
-    "username": "root",
+    "username": "admin",
     "password": null,
     "database": "database_production",
-    "host": "127.0.0.1",
+    "host": "ybrn-db.c6fmzsxgcag6.ap-northeast-2.rds.amazonaws.com",
     "dialect": "mysql"
   }
 }
